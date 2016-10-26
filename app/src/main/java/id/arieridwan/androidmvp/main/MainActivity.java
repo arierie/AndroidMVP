@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
 import id.arieridwan.androidmvp.R;
 
 public class MainActivity extends AppCompatActivity implements MainView {
