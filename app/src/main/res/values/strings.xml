@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android MVP</string>
+    <string name="input">Input</string>
+    <string name="input_not_valid">Data not valid, please check again</string>
+    <string name="input_error">Failed to add</string>
+    <string name="input_succes">Succesfuly added</string>
+</resources>
